@@ -1,0 +1,20 @@
+---
+title: "index"
+author: "Bryan"
+date: "2/15/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Bryan's assignment 3 landing page
+<br>
+Bryan Lu (https://github.com/blu637) and Kate Carter-Cram (https://github.com/kcartercram)
+<br>
+I will insert an image here with a caption: image
+
+
+
+
