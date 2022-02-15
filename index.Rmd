@@ -13,7 +13,7 @@ Bryan's assignment 3 landing page
 <br>
 Bryan Lu (https://github.com/blu637) and Kate Carter-Cram (https://github.com/kcartercram)
 <br>
-I will insert an image here with a caption: image
+I will insert an image here with a caption: ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.havahart.com%2Farticles%2Finteresting-chipmunk-facts&psig=AOvVaw1XzejuJQziJUjBBolIFnnU&ust=1645052230081000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjA66jngvYCFQAAAAAdAAAAABAK)
 
 
 
