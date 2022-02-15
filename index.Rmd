@@ -13,7 +13,9 @@ Bryan's assignment 3 landing page
 <br>
 Bryan Lu (https://github.com/blu637) and Kate Carter-Cram (https://github.com/kcartercram)
 <br>
-This is an image of a glass of water: ![]('https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg')
+![this is a glass of water](https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg)
+This is a glass of water!!
+
 
 
 
