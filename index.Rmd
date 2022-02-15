@@ -13,7 +13,7 @@ Bryan's assignment 3 landing page
 <br>
 Bryan Lu (https://github.com/blu637) and Kate Carter-Cram (https://github.com/kcartercram)
 <br>
-This is an image of a glass of water: ![](https://www.ashevillenc.gov/wp-content/uploads/2021/05/water-glass-asheville.jpg)
+This is an image of a glass of water: ![]('https://www.ashevillenc.gov/wp-content/uploads/2021/05/water-glass-asheville.jpg')
 
 
 
