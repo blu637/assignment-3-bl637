@@ -1,9 +1,0 @@
-output_dir: "."
-navbar:
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Bryan"
-      href: bryan.html
-    - text: "Kate"
-      href: Kate-file-2.html  
