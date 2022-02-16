@@ -1,0 +1,17 @@
+name: "Bryan's site"
+navbar:
+  title: "My website"
+  left:
+    - text: "home"
+      href: index.html
+    - text: "Bryan"
+      href: bryan.html
+    - text: "Kate"
+      href: kate.html
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
