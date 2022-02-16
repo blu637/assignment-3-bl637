@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "My website"
 author: "Bryan"
 date: "2/15/2022"
 output: html_document
