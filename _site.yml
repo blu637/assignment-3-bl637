@@ -1,4 +1,4 @@
-output_dir: "."
+title: "Bryan's Website"
 navbar:
   left:
     - text: "Home"
@@ -7,3 +7,12 @@ navbar:
       href: bryan.html
     - text: "Kate"
       href: kate.html  
+      name: "our-website"
+
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
